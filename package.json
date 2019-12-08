@@ -1,0 +1,15 @@
+{
+  "name": "botbind-workspace",
+  "version": "0.0.0",
+  "description": "My BotBind workspace",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@botbind/klasa": "latest",
+    "discord.js": "github:discordjs/discord.js#master"
+  }
+}

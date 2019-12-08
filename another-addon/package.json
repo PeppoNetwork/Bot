@@ -1,0 +1,16 @@
+{
+  "name": "another-addon",
+  "version": "0.0.0",
+  "description": "This is my another addon!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@botbind/klasa": "latest"
+  },
+  "devDependencies": {
+    "@botbind/klasa": "latest",
+    "discord.js": "github:discordjs/discord.js#master"
+  }
+}
